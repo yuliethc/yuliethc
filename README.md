@@ -52,7 +52,7 @@ Here are some ideas to get you started:
  
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuliethc&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
      ![Yulieth's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuliethc&show_icons=true&theme=radical)
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=yuliethc&theme=dark&hide_border=true)<br/>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=yuliethc&theme=radical&hide_border=true)<br/>
   </div>  
 <br/>
   
