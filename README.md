@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   </div>
   <br/>
   
-  ###  📫 Portfolio and Contact information: [yulieth.com](https://www.yulieth.com/#portfolio)
+  ###  ⚡ Portfolio: [yulieth.com](https://www.yulieth.com/#portfolio)
   
   <br/>
   
@@ -59,4 +59,4 @@ Here are some ideas to get you started:
   </div>  
 <br/>
   
-  
+  ###  💬 Contact: <a href="mailto:contact@yulieth.com">contact@yulieth.com</a>
