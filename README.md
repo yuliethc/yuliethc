@@ -45,6 +45,8 @@ Here are some ideas to get you started:
   </div>
   
   <br/>
+  - 📫 Portfolio and Contact information: [yulieth.com](https://www.yulieth.com/#portfolio)
+  <br/>
   
   ## 📊 GitHub Stats
 
@@ -56,4 +58,4 @@ Here are some ideas to get you started:
   </div>  
 <br/>
   
-  - 📫 Portfolio and Contact information: [yulieth.com](https://www.yulieth.com/#portfolio)
+  
