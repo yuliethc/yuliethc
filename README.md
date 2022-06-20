@@ -43,9 +43,10 @@ Here are some ideas to get you started:
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png" width="170px"/> 
     <img src="https://www.kindpng.com/picc/m/574-5747046_python-pandas-logo-transparent-hd-png-download.png" width="160px"/> 
   </div>
-  
   <br/>
-  - 📫 Portfolio and Contact information: [yulieth.com](https://www.yulieth.com/#portfolio)
+  
+  ###  📫 Portfolio and Contact information: [yulieth.com](https://www.yulieth.com/#portfolio)
+  
   <br/>
   
   ## 📊 GitHub Stats
