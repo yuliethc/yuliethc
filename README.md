@@ -44,6 +44,16 @@ Here are some ideas to get you started:
     <img src="https://www.kindpng.com/picc/m/574-5747046_python-pandas-logo-transparent-hd-png-download.png" width="160px"/> 
   </div>
   
+  <br/>
+  
+  ## 📊 GitHub Stats
+
+  <div align="center">
+ 
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuliethc&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+     ![Yulieth's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuliethc&show_icons=true&theme=radical)
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=yuliethc&theme=dark&hide_border=true)<br/>
+  </div>  
 <br/>
   
   - 📫 Portfolio and Contact information: [yulieth.com](https://www.yulieth.com/#portfolio)
