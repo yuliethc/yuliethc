@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - Proficiency in HTML & CSS transforming desings to pixel-perfect and fully responsive websites.
 - Experience in libraries like ReactJS, Bootstrap, Material-UI, styled-components.
 - Keen eye for User Experience and Web Accessibility.
-- Speaking Spanish (native), English (advanced) and Italian (intermediate).
+- Speaking Spanish, English and Italian.
 
 ### ⚡Stack
 
