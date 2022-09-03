@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   
 <br/>
   
-### 🔭 I’m currently studying a specialization in Data Science.
+<!--- ## 🔭 I’m currently studying a specialization in Data Science.
   
  <div style="display:flex; justify-content=center; align-items:center;">
     <img src="https://images.squarespace-cdn.com/content/v1/5a5f97664c0dbfe0a9740d41/1516236406424-UF96BQGZQP7618FORF29/sql-file-format-symbol.png" width="60px"/>
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
     <img src="https://www.kindpng.com/picc/m/574-5747046_python-pandas-logo-transparent-hd-png-download.png" width="160px"/> 
   </div>
   <br/>
-  
+-->
   ###  ⚡ Portfolio: [yulieth.com](https://www.yulieth.com/#portfolio)
   
   <br/>
