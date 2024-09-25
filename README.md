@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 2 + years of experience.  
+- 3 + years of experience.  
 - Proficiency in HTML & CSS transforming desings to pixel-perfect and fully responsive websites.
 - Experience in Genexus and libraries like ReactJS, Bootstrap, Material-UI, styled-components.
 - Keen eye for User Experience and Web Accessibility.
